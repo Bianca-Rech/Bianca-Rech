@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil de Kerulyn Bianca Rech Biondo 😁
 
- <div>
+<div>
    <a href="https://github.com/Bianca-Rech">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bianca-Rech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca-Rech&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bianca-Rech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca-Rech&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -14,9 +14,10 @@
  
 <br>
  
-### Conheça-me conheça no LinkedIn!
+### Conheça-me no LinkedIn!
  
 <div> 
-  <a href = "biancarech714@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:biancarech714@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/kerulyn-bianca-rech-biondo-501805276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
